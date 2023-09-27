@@ -1,19 +1,19 @@
 {
-    "name": "yii2tech/file-storage",
+    "name": "dfware/file-storage",
     "description": "File storage abstraction layer for Yii2",
     "keywords": ["yii2", "file", "storage", "abstraction", "amazon", "S3", "mongodb", "gridfs", "ssh", "sftp"],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "support": {
-        "issues": "https://github.com/yii2tech/file-storage/issues",
+        "issues": "https://github.com/dfware/file-storage/issues",
         "forum": "http://www.yiiframework.com/forum/",
-        "wiki": "https://github.com/yii2tech/file-storage/wiki",
-        "source": "https://github.com/yii2tech/file-storage"
+        "wiki": "https://github.com/dfware/file-storage/wiki",
+        "source": "https://github.com/dfware/file-storage"
     },
     "authors": [
         {
-            "name": "Paul Klimov",
-            "email": "klimov.paul@gmail.com"
+            "name": "Pavel Karelin",
+            "email": "devpastet@yandex.ru"
         }
     ],
     "require": {
@@ -26,7 +26,7 @@
         }
     ],
     "autoload": {
-        "psr-4": { "yii2tech\\filestorage\\": "src" }
+        "psr-4": { "dfware\\filestorage\\": "src" }
     },
     "extra": {
         "branch-alias": {
