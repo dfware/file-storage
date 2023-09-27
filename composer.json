@@ -26,7 +26,7 @@
         }
     ],
     "autoload": {
-        "psr-4": { "dfware\\filestorage\\": "src" }
+        "psr-4": { "yii2tech\\filestorage\\": "src" }
     },
     "extra": {
         "branch-alias": {
